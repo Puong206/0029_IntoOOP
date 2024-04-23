@@ -8,6 +8,8 @@ class Mahasiswa {
 		string jurusan;
 
 		void output() {
-
+			cout << "Nama : " << endl;
+			cout << "Umur : " << endl;
+			cout << "Jurusan : " << endl;
 		}
 };
